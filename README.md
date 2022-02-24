@@ -1,4 +1,4 @@
-## Software Developer Salary Prediction
+## Software Developer Salary Prediction
 
 ---
 
@@ -31,7 +31,7 @@ the application is deployed to heroku.
 
 ---
 
-##### Test the App
+#### Test the App
 
 ---
 
